@@ -14,9 +14,9 @@ const Equipment = (props) => {
                     <Card.Title className="fs-3 fw-bold pb-2">{course}</Card.Title>
                     <Card.Text>
                         <p className="fs-5"> {description}</p>
-                        <Link to ={`/details/${id}`}>
+                        
                             <button className="btn btn-primary">Details</button>
-                        </Link>
+                        
                     </Card.Text>
                 </Card.Body>
             </Card>
