@@ -1,6 +1,6 @@
 # Yellow Bell General Hospital
 
-For the first time in your city, we have come to change your experience and make it one dimensional advance. You can visit our website at [https://yello-bell-general-hospital.netlify.app/](https://yello-bell-general-hospital.netlify.app/)
+For the first time in your city, we have come to change your experience and make it one dimensional advance. You can visit our website at [https://yellow-bell-general-hospital.netlify.app/](https://yellow-bell-general-hospital.netlify.app/)
 
 ## Our Exclusive Features
 
