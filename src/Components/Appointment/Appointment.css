@@ -1,0 +1,6 @@
+.appointmentStyle{
+    background-image: linear-gradient(to left, rgba(0,0,255,0.4),
+    rgba(0,0,255,0.1),
+    rgba(0,0,255,0),
+    white);
+}

@@ -1,0 +1,249 @@
+{
+    "services": [
+      {
+        "id":1,
+        "img": "https://media.istockphoto.com/photos/hospital-emergency-room-picture-id185795018?k=20&m=185795018&s=612x612&w=0&h=wIF3lPxron69k8tpBXvhl2fnNTKRT5BVzkq4XwYHIEs=",
+        "course": "Emergency",
+        "description": "Our emergency gate remains open 24 hours only for you."
+
+      },
+  
+      {
+        "id":2,
+        "img": "https://media.istockphoto.com/photos/female-looking-into-diopter-picture-id168267485?b=1&k=20&m=168267485&s=170667a&w=0&h=03-NvFcr3m3kgyjLLq58SBg9qVB-PguR3Wqund2-Kqo=",
+        "course": "Eye Care Unit",
+        "description": "You will be surprised seeing our eye care unit and machines !"
+      },
+      {
+        "id":3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr23QiEIvh2HKUboBDgdGYlIYfDSreqXJhA&usqp=CAU",
+        "course": "Dental Unit",
+        "description": "Certainly you will get the best dental experience from us."
+      },
+      {
+        "id":4,
+        "img": "https://media.istockphoto.com/photos/tube-of-blood-is-placed-in-a-medical-centrifuge-for-plasma-lifting-picture-id1097603612?b=1&k=20&m=1097603612&s=170667a&w=0&h=0cD9OviQjxvDm-q9WBugqWQjZ-2hzrlQXNE7kTVdN48=",
+        "course": "PRP Therapy",
+        "description": "Most recent technologies are available here like PRP and so on."
+      },
+      {
+        "id":5,
+        "img": "https://images.unsplash.com/photo-1626957341637-6d7122ce692e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHZhY2NpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "course": "Covid Vaccine",
+        "description": "You can have your Covid-19 vaccine from us as well"
+      },
+      {
+        "id":6,
+        "img": "https://media.istockphoto.com/photos/frontline-workers-treating-male-patient-in-icu-picture-id1254958330?b=1&k=20&m=1254958330&s=170667a&w=0&h=5WLwo6lCi93ZUOwqfN8A-QSYn1yBMENNmCWPyNm1LnI=",
+        "course": "ICU",
+        "description": "Our ICU will provide you the best service among all."
+      }
+    ],
+
+    "departments": [
+      {
+        "id":7,
+        "img": "https://media.istockphoto.com/photos/blood-test-tube-picture-id1183370025?b=1&k=20&m=1183370025&s=170667a&w=0&h=7opqzbVdqTLehBHR2zQdv09zNwK3gjGz5lpZECFUOVQ=",
+        "course": "Pathology",
+        "description": "Here, you will get all sorts of pathological supports."
+
+      },
+  
+      {
+        "id":8,
+        "img": "https://media.istockphoto.com/photos/a-surgical-interventionheart-surgery-picture-id1153884185?b=1&k=20&m=1153884185&s=170667a&w=0&h=_6chw34y2cMTz3n4JBHv-1TZUviU6nUA1QmvxRKH7l8=",
+        "course": "Cardiology",
+        "description": "We have our dedicated cardiology department for you !"
+      },
+      {
+        "id":9,
+        "img": "https://images.unsplash.com/photo-1611225664647-c01866a22c9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9yZW5zaWN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "course": "Forensic",
+        "description": "We are very much enrich in our Forensic Medicine department. "
+      },
+      {
+        "id":10,
+        "img": "https://media.istockphoto.com/photos/portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-picture-id1271328839?b=1&k=20&m=1271328839&s=170667a&w=0&h=SIMzwoe8eu43OoY4M3ElZCMxW9MgDbZbVzMhh4VY2zM=",
+        "course": "Gynecology",
+        "description": "Obviously, girls and women will be guided with extra care"
+      },
+      {
+        "id":11,
+        "img": "https://media.istockphoto.com/photos/brain-scan-of-head-and-skull-with-hand-pointing-picture-id187272969?b=1&k=20&m=187272969&s=170667a&w=0&h=Qf4eS369FFZLKQfCBAc_JSwCMkuApbSnRsWdybpObZQ=",
+        "course": "Neurology",
+        "description": "Unlike many hospitals, we have digital neuro machines."
+      },
+      {
+        "id":12,
+        "img": "https://media.istockphoto.com/photos/broken-arm-xray-picture-id168533336?b=1&k=20&m=168533336&s=170667a&w=0&h=l4bZbR_ZZ81Pz49DN1cpyKyyuw11-d3V8J6GUFxyrdo=",
+        "course": "Orthopaedic",
+        "description": "I case of fracture and bone problem, you will feel secured here."
+      }
+    ],
+
+    "equipments": [
+      {
+        "id":13,
+        "img": "https://media.istockphoto.com/photos/scanner-equipment-in-the-hospital-picture-id1310342557?b=1&k=20&m=1310342557&s=170667a&w=0&h=fbyk6j8E4FlcezL2UGC-m17uL_CrjsefGn1NfeLY96M=",
+        "course": "MRI",
+        "description": "The most ultra-suspective MRI machine is ready for your service."
+
+      },
+  
+      {
+        "id":14,
+        "img": "https://media.istockphoto.com/photos/female-patient-lying-down-ready-for-an-xray-and-radiologist-getting-picture-id917730202?b=1&k=20&m=917730202&s=170667a&w=0&h=FbBufjc2HK3aJZWbnO-K0DV6lGXFmEepYwtljkoMhIg=",
+        "course": "X-ray",
+        "description": "In case of X-ray, Your experience will be a differnt one."
+      },
+      {
+        "id":15,
+        "img": "https://media.istockphoto.com/photos/tube-of-blood-is-placed-in-a-medical-centrifuge-for-plasma-lifting-picture-id1097603612?b=1&k=20&m=1097603612&s=170667a&w=0&h=0cD9OviQjxvDm-q9WBugqWQjZ-2hzrlQXNE7kTVdN48=",
+        "course": "PRP Centrifuge",
+        "description": "All the latest technology belongs to us to boost your experience."
+      },
+      {
+        "id":16,
+        "img": "https://media.istockphoto.com/photos/equipment-dialysis-machines-picture-id1068470838?b=1&k=20&m=1068470838&s=170667a&w=0&h=9dcekorgv1HpPejrfrHCy7BFKGGT8KbBeyqAfvyX0DI=",
+        "course": "Dialysis",
+        "description": "For kidney patients, we have the most special machines.",
+        "cost": 7500
+      },
+      {
+        "id":17,
+        "img": "https://media.istockphoto.com/photos/hospital-linear-accelerator-picture-id610448720?b=1&k=20&m=610448720&s=170667a&w=0&h=L_1sDjQGf8DLyeGsHWa2VnraKWTbwa3jFwjX2WnTI4k=",
+        "course": "CT Scan",
+        "description": "CT Scan has its extra flavour to impress your mind."
+      },
+      {
+        "id":18,
+        "img": "https://media.istockphoto.com/photos/anesthesia-machine-in-hospital-operating-room-picture-id627431634?b=1&k=20&m=627431634&s=170667a&w=0&h=JdvRBLiWKemeZ8Mlh2hKZzrQyL7vAzWY8BkZt5sIfYE=",
+        "course": "Anesthetia",
+        "description": "Original and brand new operating machines are always used here."
+      }
+    ],
+    
+    "doctors": [
+      {
+        "id":19,
+        "img": "https://images.unsplash.com/photo-1612276529731-4b21494e6d71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZSUyMHNwZWNpYWxpc3QlMjBkb2N0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Dr. Shah Kamal Nibir",
+        "speciality": "Associate Consultant, Neurology",
+        "degree": "MBBS, FCPS (Medicine), MD (Neurology) "
+      },
+      {
+        "id":20,
+        "img": "https://media.istockphoto.com/photos/nothing-supports-your-credentials-like-self-confidence-picture-id1279739686?b=1&k=20&m=1279739686&s=170667a&w=0&h=W0MPMPY4WX2WoG0VKP65YzmBzB5izhrwcQAldPX0-3Y=",
+        "name": "Dr. Abu Ishrak Khan",
+        "speciality": "Senior Consultant, Neurology ",
+        "degree": "MBBS, FCPS (Medicine), MD, (Neurology) DU "
+      },
+      {
+        "id":21,
+        "img": "https://media.istockphoto.com/photos/senior-experienced-doctor-speaks-into-camera-with-patient-using-in-picture-id1265180966?b=1&k=20&m=1265180966&s=170667a&w=0&h=72InDkVhbHQal2NYGcBvEWZSsf03C18NeU1zv_QUmoM=",
+        "name": "Dr. Tilok Bin Adnan",
+        "speciality": "Senior Consultant, Nephrology ",
+        "degree": "MBBS, FCPS (Medicine), MD (Nephrology) "
+      },
+      {
+        "id":22,
+        "img": "https://media.istockphoto.com/photos/male-medical-professional-is-confident-in-studio-picture-id1201439096?b=1&k=20&m=1201439096&s=170667a&w=0&h=YXdCLIT-e-reXi8xY-iUkg1XR4_C6TSXrljaHiFmhEU=",
+        "name": "Dr. Syed Rasel Bin Karim",
+        "speciality": "Associate Consultant, Cardiac Surgery ",
+        "degree": "MBBS, MS (Cardio-Vascular & Thoracic Surgery) "
+      },
+      {
+        "id":23,
+        "img": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Dr. Shihanur Rahman",
+        "speciality": "Senior Consultant, Cardiac Surgery ",
+        "degree": "MBBS, MS (Cardiovascular Surgery), PhD"
+      },
+      {
+        "id":24,
+        "img": "https://media.istockphoto.com/photos/doctor-with-digital-tablet-in-his-office-picture-id1126789804?b=1&k=20&m=1126789804&s=170667a&w=0&h=F5R-EtQQ06Yy-hkecEeN9gkKIMw2vJkuYAVXK2jr-8k=",
+        "name": "Dr. warish Aziz",
+        "speciality": "Senior Consultant, Interventional Cardiology ",
+        "degree": "MBBS (Dhaka), MD CARD. (NICVD), FIC (Singapore)"
+      },
+      {
+        "id":25,
+        "img": "https://media.istockphoto.com/photos/male-east-indian-doctor-portrait-stock-photo-picture-id1192129265?b=1&k=20&m=1192129265&s=170667a&w=0&h=B0AWdvrTYt2xQwo3Kp-0PRt4gJf49nDlajEFE7tdKAw=",
+        "name": "Dr. Khandakar Ilias",
+        "speciality": "Senior Consultant, Interventional Cardiology ",
+        "degree": "MBBS, MD (Cardiology), Fellow, EP and Device Implantation "
+      },
+      {
+        "id":26,
+        "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvY3RvcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Dr. Nilima Roy",
+        "speciality": "Senior Consultant– Gastroenterology ",
+        "degree":"MBBS, MD (Gastroenterology) "
+      },
+      {
+        "id":27,
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?b=1&k=20&m=1203995945&s=170667a&w=0&h=W5pDpUgxdsBroe9aFgJUzR0Ess8xPUoST1ZjEvVRgEQ=",
+        "name": "Dr. Zihan Abedin",
+        "speciality": "Consultant – Hepatology & Gastroenterology ",
+        "degree": "MBBS, MD (Hepatology), FCPS (Hepatology)  "
+      }
+  
+    ],
+
+    "cabin": [
+      {
+        "id":28,
+        "img": "https://www.squarehospital.com/storage/images/1623908307.png",
+        "name": "Deluxe",
+        "cost": 10000
+      },
+      {
+        "id":29,
+        "img": "https://www.squarehospital.com/storage/images/1623908295.png",
+        "name": "Single Standard",
+        "cost": 8500
+      },
+      {
+        "id":30,
+        "img": "https://www.squarehospital.com/storage/images/1623908284.png",
+        "name": "Suite",
+        "cost": 30000
+      },
+      {
+        "id":31,
+        "img": "https://www.squarehospital.com/storage/images/1623908273.png",
+        "name": "Twin",
+        "cost": 5200
+      },
+      {
+        "id":32,
+        "img": "https://www.squarehospital.com/storage/images/1623908248.png",
+        "name": "Ward",
+        "cost": 3600
+      },
+      {
+        "id":33,
+        "img": "https://media.istockphoto.com/photos/healthcare-workers-intubating-a-covid-patient-picture-id1255594215?b=1&k=20&m=1255594215&s=170667a&w=0&h=gKXXN-aDKSKfGna20vnCf1u7d-ZobfwMfaeLa-JJRZQ=",
+        "name": "ICU",
+        "cost": 12000
+      },
+      {
+        "id":34,
+        "img": "https://media.istockphoto.com/photos/pink-corner-spa-chromotherapy-and-relax-picture-id155388744?b=1&k=20&m=155388744&s=170667a&w=0&h=tWr3vx9Y0a5YyWeB4cqEElHKUaSoQC45PSnLDcMapVE=",
+        "name": "Phototherapy Bed",
+        "cost": 20000
+      },
+      {
+        "id":35,
+        "img": "https://media.istockphoto.com/photos/digitally-rendered-image-of-an-empty-hospital-intensive-care-unit-picture-id1282880747?b=1&k=20&m=1282880747&s=170667a&w=0&h=owlFXH9Nx0CerruK9WH2lDRBLDrJLNCxxB6fKTK1oA8=",
+        "name": "HDU",
+        "cost": 10800
+      },
+      {
+        "id":36,
+        "img": "https://media.istockphoto.com/photos/comatose-patient-on-the-lung-ventilator-in-the-intensive-care-unit-picture-id1148594041?b=1&k=20&m=1148594041&s=170667a&w=0&h=Cvc4YMF27x18SObXA4ywCmomdYReO1yUt8lOR7osOCk=",
+        "name": "Neuro ICU",
+        "cost": 12000
+      }
+    ]
+  }
